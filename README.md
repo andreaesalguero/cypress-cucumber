@@ -1,4 +1,4 @@
-# ccypress-cucumber
+# cypress-cucumber
 
 ## Project setup
 ```bash
