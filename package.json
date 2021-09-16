@@ -8,5 +8,12 @@
   },
   "keywords": [],
   "author": "Andrea Salguero",
-  "license": "ISC"
+  "license": "ISC",
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  },
+  "devDependencies": {
+    "@types/cypress-cucumber-preprocessor": "^4.0.1",
+    "cypress-cucumber-preprocessor": "^4.2.0"
+  }
 }
